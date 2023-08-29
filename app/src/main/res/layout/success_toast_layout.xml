@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/root_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#00000000"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/base_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="25dp"
+        android:orientation="horizontal"
+        tools:ignore="UselessParent">
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="match_parent"
+            android:background="@color/Green"
+            android:visibility="gone"
+            android:layout_height="match_parent"
+            android:gravity="center">
+
+            <nurasoftech.urbanfitconsultation.Models.SuccessToastView
+                android:id="@+id/successView"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center_vertical|start"
+                android:layout_margin="10dp"
+                android:gravity="center_vertical|start" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/toastMessage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:background="@drawable/border3"
+            android:textColor="@color/blue"
+            android:gravity="center_vertical"
+            android:padding="10dp"
+            android:text="New Text" />
+
+    </LinearLayout>
+
+</LinearLayout>

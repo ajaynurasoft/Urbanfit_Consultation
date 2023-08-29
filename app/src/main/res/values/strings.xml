@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Urbanfit Consultation</string>
+    <string name="process">Processing&#8230;</string>
+    <string name="getstarted">Get started</string>
+    <string name="findprofessionalsthatsuitsyourneeds">Find professional that suit your needs</string>
+    <string name="lorem">lomerm saidh  fjigho isd fusia sfdkhigfsd sidhfg fsdahihf gifsndoiuhs dfhsa </string>
+    <string name="welcome">Welcome</string>
+    <string name="loginwithphonenumber"><u>Login with phone number</u></string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgotpassword">Forgot password?</string>
+    <string name="notamemberyet">Not a member yet?</string>
+    <string name="signup">Sign up</string>
+    <string name="orcontinuewith"> Or continue with </string>
+    <string name="joinusnow">Join us now</string>
+    <string name="createanaccount">Create an account</string>
+    <string name="fullname">Full name</string>
+    <string name="dateofbirth">Date of birth</string>
+    <string name="todo">todo</string>
+    <string name="wait">Please wait</string>
+    <string name="NoInternetMessage">There is no internet connection.</string>
+    <string name="login">Login</string>
+    <string name="alreadyamember">Already a member?</string>
+    <string name="meetthecoachofthemonth">Meet the coach of the month: </string>
+    <string name="learnmore">Learn more</string>
+    <string name="browsecategories">Browse Categories</string>
+    <string name="all">All</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="filter">Filter</string>
+    <string name="explore">Explore</string>
+    <string name="session">Session</string>
+    <string name="chat">Chat</string>
+    <string name="schedule">Schedule</string>
+    <string name="connect">Connect</string>
+    <string name="rate">Rate</string>
+    <string name="areaofexperience">Area of experience</string>
+    <string name="business">Business</string>
+    <string name="availability">Availability</string>
+    <string name="schedule_an_appointment">Schedule an appointment</string>
+    <string name="name">Name</string>
+    <string name="select_the_date">Select the date</string>
+    <string name="sessionduration">Session duration</string>
+    <string name="starttime">Start time</string>
+    <string name="next">Next</string>
+    <string name="leaveamessagetojessica">Leave a message to Jessica</string>
+    <string name="costofsession">Cost of session</string>
+    <string name="servicefees">Service fees</string>
+    <string name="total">Total</string>
+    <string name="booknow">Book now</string>
+
+
+</resources>
